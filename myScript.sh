@@ -14,3 +14,5 @@ read userCity
 echo  "Name: $userName, PhoneNumber: $userPhone, City: $userCity" > UserInfo.txt
 
 echo "Bye $userName from $userCity"
+
+cat UserInfo.txt
